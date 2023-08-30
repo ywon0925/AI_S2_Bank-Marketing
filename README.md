@@ -1,7 +1,4 @@
 # Banks' Marketing Success
-Second project created during the AI Bootcamp.
-
-## Overview
 Analyze banks' marketing data and apply Machine Learning to create an AI model to predict the marketing result.
 
 **Project_Sec2.ipynb** - Contains the full code of data analysis and model training  
